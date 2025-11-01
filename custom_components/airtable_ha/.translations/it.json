@@ -1,0 +1,8 @@
+{
+    "component.airtable_ha.config.title": "Airtable",
+    "component.airtable_ha.config.step.user.title": "Configura l'integrazione Airtable",
+    "component.airtable_ha.config.step.user.data.client_id": "Client ID Airtable",
+    "component.airtable_ha.config.step.user.data.client_secret": "Client Secret Airtable",
+    "component.airtable_ha.config.step.user.data.base_id": "Base ID di Airtable",
+    "component.airtable_ha.config.step.user.data.update_interval": "Intervallo aggiornamento (minuti)"
+}

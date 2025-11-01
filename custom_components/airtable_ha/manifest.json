@@ -1,0 +1,12 @@
+{
+  "domain": "airtable_ha",
+  "name": "Airtable in Home Assistant",
+  "version": "0.1.0",
+  "requirements": [
+    "requests",
+    "aiohttp"
+  ],
+  "codeowners": ["@Marcoletto"],
+  "config_flow": true,
+  "documentation": "https://github.com/Marcoletto/Airtable-in-Home-Assistant"
+}
